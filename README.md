@@ -47,12 +47,5 @@
 - `OVERALL MAXIMUM: 165 Points`
 
 
-### Итоговая Оценка
-- Points
-  - Основные: `105/105 Points`
-  - Extra: `45/45 Points`
-- 
-
-
 
  >Good luck and may force be with you!
