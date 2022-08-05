@@ -25,11 +25,11 @@
   - Макеты по вёрстке могут быть любыми на ваш вкус! -> `0 points`
     - Использовать  [**styled-components**](https://styled-components.com/)  -> `extra 15 points`
     - Дизайн (творческая работа/ оценка UI/UX)  -> `super-extra 10 points`
-- Работа с запросами/ сервисами -> `SUM ~ 25 points` + `with extra 5 points`
+- Работа с запросами/ сервисами -> `SUM 25 points` + `with extra 5 points`
   - Использовать [**axios**](https://github.com/axios/axios) `REQUIRED`
   - API для работы с постами - [**jsonplaceholder**](https://jsonplaceholder.typicode.com/guide/) `REQUIRED`
     - Использовать `axiosCreate` -> `extra 5 points` 
-- Глобальное хранение и Обробатывание Side-Effect -> `SUM ~ 45 points`
+- Глобальное хранение и Обробатывание Side-Effect -> `SUM 45 points`
   - Использование [**redux-toolkit**](https://redux-toolkit.js.org/) -> `20 points`
   - Использование [**redux-saga**](https://redux-saga.js.org/) -> `25 points`
 
