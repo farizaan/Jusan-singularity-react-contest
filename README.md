@@ -37,6 +37,9 @@
   - Использование [**redux-saga**](https://redux-saga.js.org/) -> `25 points`
     - `EXTRA` Использование [**reselect**](https://github.com/reduxjs/reselect) -> `extra 10 points`
 
+### Итоговая Оценка
+- Основные: `105 Points`
+- Extra: `45 Points`
 
 ### Оценка контеста
 - `Points` по требованием контеста
