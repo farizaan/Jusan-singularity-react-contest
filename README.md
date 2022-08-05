@@ -19,7 +19,7 @@
 - Поднять [**react**](https://ru.reactjs.org/) ->`SUM 10 points` 
   - Использовать [**create-react-app**](https://create-react-app.dev/) `REQUIRED`
   - Использовать [**typescript**](https://www.typescriptlang.org/) `REQUIRED`
-- Страницы и Фичи -> `SUM ~ 25 points` + `with extra 10 points`
+- Страницы и Фичи -> `SUM 25 points` + `with extra 10 points`
   - Использовать [**react-Router**](https://reactrouter.com/) `REQUIRED`
   - Вёрстка: Список Постов: `"/"` - Список постов -> `10 points`
   - Вёрстка: Создание Поста: `"/new"` - Создание поста  -> `15 points`
