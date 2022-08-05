@@ -24,9 +24,9 @@
   - Вёрстка: Список Постов: `"/"` - Список постов -> `10 points`
   - Вёрстка: Создание Поста: `"/new"` - Создание поста  -> `15 points`
   - `EXTRA` Редактирование Поста `"/edit/:post_id"` - Редактирование поста  -> `extra 10 points`
-- `EXTRA` Вёрстка
+- `EXTRA` Вёрстка + `with extra 20 points`
   - Макеты по вёрстке могут быть любыми на ваш вкус!
-  - Использовать  [**styled-components**](https://styled-components.com/)  -> `extra 15 points`
+  - Использовать  [**styled-components**](https://styled-components.com/)  -> `extra 10 points`
   - Дизайн (творческая работа/ оценка UI/UX)  -> `extra 10 points`
 - Работа с запросами/ сервисами -> `SUM 25 points` + `with extra 5 points`
   - Использовать [**axios**](https://github.com/axios/axios) `REQUIRED`
