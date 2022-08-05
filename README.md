@@ -38,7 +38,7 @@
     - `EXTRA` Использование [**reselect**](https://github.com/reduxjs/reselect) -> `10 points`
 
 
-###Оценкой контеста
+### Оценкой контеста
 - `Points` по требованием контеста
 - Читаемость кода и Чистота кода 
 - Покрытие Typescript на `Interface`
