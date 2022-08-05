@@ -36,17 +36,22 @@
   - Использование [**redux-toolkit**](https://redux-toolkit.js.org/) -> `20 points`
   - Использование [**redux-saga**](https://redux-saga.js.org/) -> `25 points`
     - `EXTRA` Использование [**reselect**](https://github.com/reduxjs/reselect) -> `extra 10 points`
-
-### Итоговая Оценка
-- Основные: `105 Points`
-- Extra: `45 Points`
-
+    
 ### Оценка контеста
 - `Points` по требованием контеста
-- Читаемость кода и Чистота кода 
-- Покрытие Typescript на `Interface`
-- Чистота комитов и История комитов
+  - Основные: `105/105 Points`
+  - Extra: `45/45 Points`
+- Читаемость кода и Чистота кода: `5/5 Points`
+- Покрытие Typescript на `Interface`: `5/5 Points`
+- Чистота комитов и История комитов: `5/5 Points`
+- `OVERALL MAXIMUM: 165 Points`
 
+
+### Итоговая Оценка
+- Points
+  - Основные: `105/105 Points`
+  - Extra: `45/45 Points`
+- 
 
 
 
